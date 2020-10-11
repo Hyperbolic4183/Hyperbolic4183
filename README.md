@@ -7,7 +7,9 @@ Qiitaは[コチラ](https://qiita.com/Hyperbolic_____)
 
 
 図形を組み合わせて,おしゃれな配色リストからをランダムに色付けています。
-<img widrh="50" alt="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg">
+
+
+<img widrh="50" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg">
 
  
 ## そこそこできる
