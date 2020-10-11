@@ -6,19 +6,11 @@ Qiitaは[コチラ](https://qiita.com/Hyperbolic_____)
 ## スキ
 - Processingによるジェネラティブアート
 
-<Img widrh="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg">
-
-<Img widrh="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/2035ba39-9230-900c-6129-1dfeffcefeb2.jpeg">
-
-<Img widrh="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/4edc2290-3f16-fd60-9a69-9df5df468368.jpeg">
+<Img widrh="200" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg"> <Img widrh="200" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/2035ba39-9230-900c-6129-1dfeffcefeb2.jpeg"><Img widrh="200" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/4edc2290-3f16-fd60-9a69-9df5df468368.jpeg">
 
 - 動的グラフ表示ソフトGeoGebraの教育的活用
 
-<Img widrh="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/6ab69710-139f-884f-9d8f-a8044140beae.jpeg">
-
-<Img widrh="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/e457f073-7a0d-f74b-d01d-023c5c8ff39a.jpeg">
-
-<Img widrh="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/d2939f11-2a2d-42a8-6278-36b975fee2b3.jpeg">
+<Img widrh="200" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/6ab69710-139f-884f-9d8f-a8044140beae.jpeg"> <Img widrh="200" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/e457f073-7a0d-f74b-d01d-023c5c8ff39a.jpeg"> <Img widrh="200" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/d2939f11-2a2d-42a8-6278-36b975fee2b3.jpeg">
   
  
 ## そこそこできる
