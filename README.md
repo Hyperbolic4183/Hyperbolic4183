@@ -6,15 +6,9 @@ Qiitaは[コチラ](https://qiita.com/Hyperbolic_____)
 ## スキ
 
 - Processingによるジェネラティブアート
+図形を組み合わせて,おしゃれな配色リストからをランダムに色付けています。
+<img widrh="50" alt="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg">
 
-<img widrh="30" alt="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg">
-  
- <Img widrh="30" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/2035ba39-9230-900c-6129-1dfeffcefeb2.jpeg"><Img widrh="30" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/4edc2290-3f16-fd60-9a69-9df5df468368.jpeg">
-
-- 動的グラフ表示ソフトGeoGebraの教育的活用
-
-<Img widrh="100" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/6ab69710-139f-884f-9d8f-a8044140beae.jpeg"> <Img widrh="100" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/e457f073-7a0d-f74b-d01d-023c5c8ff39a.jpeg"> <Img widrh="100" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/d2939f11-2a2d-42a8-6278-36b975fee2b3.jpeg">
-  
  
 ## そこそこできる
 
@@ -66,5 +60,5 @@ Qiitaの開発記録は[コチラ](https://qiita.com/Hyperbolic_____/items/d2d5a
 
 Qiitaの開発記録は[コチラ](https://qiita.com/Hyperbolic_____/items/af4c25d393beb1d09e81)
 
-<img width="100" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/daa9b171-dc58-0046-29b1-1ad8d54b0226.png"> <img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/816ea4e6-19e9-7897-28f9-2c99f20430b1.png">　<img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/bc41afa9-6999-c2e6-4667-4002c3e4e696.png">
+<img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/daa9b171-dc58-0046-29b1-1ad8d54b0226.png"> <img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/816ea4e6-19e9-7897-28f9-2c99f20430b1.png">　<img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/bc41afa9-6999-c2e6-4667-4002c3e4e696.png">
 
