@@ -66,5 +66,5 @@ Qiitaの開発記録は[コチラ](https://qiita.com/Hyperbolic_____/items/d2d5a
 
 Qiitaの開発記録は[コチラ](https://qiita.com/Hyperbolic_____/items/af4c25d393beb1d09e81)
 
-<img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/daa9b171-dc58-0046-29b1-1ad8d54b0226.png"> <img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/816ea4e6-19e9-7897-28f9-2c99f20430b1.png">　<img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/bc41afa9-6999-c2e6-4667-4002c3e4e696.png">
+<img width="100" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/daa9b171-dc58-0046-29b1-1ad8d54b0226.png"> <img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/816ea4e6-19e9-7897-28f9-2c99f20430b1.png">　<img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/bc41afa9-6999-c2e6-4667-4002c3e4e696.png">
 
