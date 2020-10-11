@@ -1,3 +1,9 @@
+## SNS等
+[Twitter](https://twitter.com/Hyperbolic____)
+[Qiita](https://qiita.com/Hyperbolic_____)
+
+
+
 ## これまでに製作したアプリ
 ### マンセルカラー表からRGB値を取得するアプリ
 
@@ -9,7 +15,7 @@
 ### アカウント登録の必要ナシ!ルーム名とパスワードで誰とでも繋がれるトークアプリ
 [AppStore](https://apps.apple.com/jp/app/簡単チャット/id1521045947)
 [Qiitaでの開発記録](https://qiita.com/Hyperbolic_____/items/d2d5a25293ea64b7f7ed)
-<img width="200" alt="IMG_0344.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/8abb69c8-ae43-365b-aaf1-b8b1d1042beb.png"> <img width="200" alt="IMG_0347.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/6a7c8b17-bf1e-4cd3-f3bd-cb02bd7afe06.png"> 
+<img width="200" alt="IMG_0344.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/8abb69c8-ae43-365b-aaf1-b8b1d1042beb.png"> <img width="200" alt="IMG_0347.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/6a7c8b17-bf1e-4cd3-f3bd-cb02bd7afe06.png"> <img width="200" alt="IMG_0351.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/face73b9-69f2-3ddb-c57c-e8fd8a0106ad.png"> 
 フレームワーク:UIKit
 ライブラリ:Firebase, MessageKit, SVProgressHUD
 
