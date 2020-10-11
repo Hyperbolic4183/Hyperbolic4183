@@ -2,7 +2,7 @@
 
 - Processingによるジェネラティブアート
 
-図形を組み合わせて,おしゃれな配色リストからをランダムに色付けています。
+図形を組み合わせて絵を描きます。色についてはおしゃれな配色リストからをランダムに色付けたり,日常のシーンから色を選んだりします。
 
 <img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/22283dd0-5c78-9cce-2c77-347e33666954.jpeg"> <Img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/2035ba39-9230-900c-6129-1dfeffcefeb2.jpeg"> <Img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/4edc2290-3f16-fd60-9a69-9df5df468368.jpeg">
 
