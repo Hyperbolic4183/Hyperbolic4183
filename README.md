@@ -39,7 +39,7 @@
 
 Qiitaの開発記録は[コチラ](https://qiita.com/Hyperbolic_____/items/8e8057398bddf8ac078e)
 
-<img width="200" alt="IMG_0400.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/3420eafa-0128-0b50-590b-6ee23eb772ea.png"><img width="200" alt="IMG_0401.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/1c2fd30d-921a-7f5d-a510-2bfa3354ed81.png"><img width="200" alt="IMG_0402.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/ddd53d73-dcdc-f102-8668-c39f11797a86.png">
+<img width="250" alt="IMG_0400.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/3420eafa-0128-0b50-590b-6ee23eb772ea.png"><img width="250" alt="IMG_0401.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/1c2fd30d-921a-7f5d-a510-2bfa3354ed81.png"><img width="250" alt="IMG_0402.PNG" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/ddd53d73-dcdc-f102-8668-c39f11797a86.png">
 
 
 ### アカウント登録の必要ナシ!ルーム名とパスワードで誰とでも繋がれるトークアプリ
