@@ -15,5 +15,6 @@
 
 ### サイコロを動かした時の底面を記録するアプリ
 [AppStore](https://apps.apple.com/jp/app/arサイコロ/id1532692212)
-
+[Qiitaでの開発記録](https://qiita.com/Hyperbolic_____/items/af4c25d393beb1d09e81)
+<img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/daa9b171-dc58-0046-29b1-1ad8d54b0226.png"> <img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/816ea4e6-19e9-7897-28f9-2c99f20430b1.png">　<img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/bc41afa9-6999-c2e6-4667-4002c3e4e696.png">
 フレームワーク:ARKit,SceneKit,UIKit
