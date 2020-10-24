@@ -12,6 +12,8 @@
 
 <Img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/6ab69710-139f-884f-9d8f-a8044140beae.jpeg"> <Img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/e457f073-7a0d-f74b-d01d-023c5c8ff39a.jpeg"> <Img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/d2939f11-2a2d-42a8-6278-36b975fee2b3.jpeg">
  
+ - スマブラ
+ ドンキーコング,リュカ,マリオを使います．
 ## そこそこできる
 
 - Swift
@@ -65,6 +67,6 @@ Qiitaの開発記録は[コチラ](https://qiita.com/Hyperbolic_____/items/af4c2
 <img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/daa9b171-dc58-0046-29b1-1ad8d54b0226.png"> <img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/816ea4e6-19e9-7897-28f9-2c99f20430b1.png">　<img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/bc41afa9-6999-c2e6-4667-4002c3e4e696.png">
 
 ## SNS等
-ツイッターは[コチラ](https://twitter.com/Hyperbolic____)
-
-Qiitaは[コチラ](https://qiita.com/Hyperbolic_____)
+- ツイッターは[コチラ](https://twitter.com/Hyperbolic____)
+- Qiitaは[コチラ](https://qiita.com/Hyperbolic_____)
+- Zennは[コチラ](https://zenn.dev/hyperbola)
