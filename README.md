@@ -12,25 +12,7 @@
 
 <Img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/6ab69710-139f-884f-9d8f-a8044140beae.jpeg"> <Img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/e457f073-7a0d-f74b-d01d-023c5c8ff39a.jpeg"> <Img width="250" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/549093/d2939f11-2a2d-42a8-6278-36b975fee2b3.jpeg">
  
- - スマブラ
- ドンキーコング,リュカ,マリオを使います．
-## そこそこできる
 
-- Swift
-- Dart
-- Scratch
-- Processing
-
-## やったことある
-
-- BASIC
-- C
-- C++
-- C#
-- HTML
-- CSS
-- JavaScript
-- Python
 
 ## これまでに製作したアプリ
 ### マンセルカラー表からRGB値を取得するアプリ
